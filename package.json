@@ -6,5 +6,8 @@
   "license": "MIT",
   "scripts": {
     "start": "node server.mjs"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
   }
 }
